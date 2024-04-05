@@ -1,12 +1,13 @@
 # ProjRecherchePatronsArchitecturaux
 
-# Bibliothèques utilisées
+
+## Bibliothèques utilisées
 
 
 
 
-# Comment exécuter notre programme 
+## Comment exécuter notre programme 
 
 
 
-# Autres informations
+## Autres informations
