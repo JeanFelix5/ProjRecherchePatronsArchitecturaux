@@ -18,4 +18,6 @@ ou vous pouvez également ouvrir le fichier solution (.sln) et lancer l'exécuti
 
 ## Autres informations
 Pour tester le premier patron (le patron #1) le l'username à entrer est : admin et le mot de passe à entrer est : password
+
+
 Ce code a été réaliser avec visual studio 2022, soit la version 17.8.4.
