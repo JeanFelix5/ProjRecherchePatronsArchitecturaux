@@ -17,4 +17,5 @@ Vous pouvez directement lancer l'exécutable qui se trouve au chemin : ProjReche
 ou vous pouvez également ouvrir le fichier solution (.sln) et lancer l'exécution du programme dans celui-ci
 
 ## Autres informations
+Pour tester le premier patron (le patron #1) le l'username à entrer est : admin et le mot de passe à entrer est : password
 Ce code a été réaliser avec visual studio 2022, soit la version 17.8.4.
